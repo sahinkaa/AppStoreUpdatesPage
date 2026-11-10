@@ -1,0 +1,10 @@
+Package: com.sahinkaa.appstoreupdatespage
+Name: App Store Updates Page
+Version: 1.0
+Architecture: iphoneos-arm64
+Description: Open the App Store updates page and quietly refresh available updates every time App Store comes to the foreground.
+Maintainer: sahinkaa
+Author: sahinkaa
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate
+Icon: https://github.com/sahinkaa/AppStoreUpdatesPage/releases/download/v1.0/Icon.png
